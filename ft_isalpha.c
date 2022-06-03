@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_isalpha.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: sfathima <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: sfathima <sfathima@student.42abudhabi      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/09/26 14:51:56 by sfathima          #+#    #+#             */
 /*   Updated: 2021/09/30 14:54:04 by sfathima         ###   ########.fr       */
