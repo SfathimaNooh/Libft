@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_isdigit.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: sfathima <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: sfathima <sfathima@student.42abudhabi      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/09/26 15:31:19 by sfathima          #+#    #+#             */
 /*   Updated: 2021/10/03 15:29:02 by sfathima         ###   ########.fr       */
