@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strlen.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: sfathima <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: sfathima <sfathima@student.42abudhabi      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/09/26 16:12:06 by sfathima          #+#    #+#             */
 /*   Updated: 2021/09/30 14:58:13 by sfathima         ###   ########.fr       */
